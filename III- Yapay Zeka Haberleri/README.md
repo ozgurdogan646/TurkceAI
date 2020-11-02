@@ -1,6 +1,11 @@
 # Yapay Zeka Haberleri
 Bu başlıkta güncel olarak yapay zeka sektöründe gelişen olayları sizlere aktarmaya çalışacağım. Yazılar [teknoloji.org'ta](https://teknoloji.org/) yayımlandığı anda bu repoda da gerekli güncellemeleri yapacağım.
 
+[Yapay Zeka Ağız Kanserinin Teşhisinde Yardımcı Oluyor](https://teknoloji.org/yapay-zeka-agiz-kanserinin-teshisinde-yardimci-oluyor/) |  [Facebook AI’ın Yeni Dil Modeli 100 Dilde Çeviri Yapabiliyor](https://teknoloji.org/facebook-aiin-yeni-dil-modeli-100-dilde-ceviri-yapabiliyor/)
+:-------------------------:|:-------------------------:
+<img src="https://teknoloji.org/wp-content/uploads/2020/11/yapay-zeka-agiz-kanserinin-teshisinde-yardimci-oluyor.jpg.webp" width="450" height="250"> |  <img src="https://teknoloji.org/wp-content/uploads/2020/10/facebook-aiin-yeni-dil-modeli.jpg.webp" width="450" height="250">
+
+
 [Yapay Zeka ile Çevre Kirliliği Önlenecek](https://teknoloji.org/yapay-zeka-ile-cevre-kirliligi-onlenecek/) |  [Portland Yüz Tanıma Teknolojisini Yasakladı](https://teknoloji.org/portland-yuz-tanima-teknolojisini-yasakladi/)
 :-------------------------:|:-------------------------:
 <img src="https://teknoloji.org/wp-content/uploads/2020/10/yapay-zeka-ile-cevre-kirliligi.jpg.webp" width="450" height="250"> |  <img src="https://teknoloji.org/wp-content/uploads/2020/09/portland-yuz-tanima-teknolojisini-yasakladi.jpg.webp" width="450" height="250">

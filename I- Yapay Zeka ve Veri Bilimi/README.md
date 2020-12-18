@@ -1,6 +1,11 @@
 # Yapay Zeka ve Veri Bilimi
 Bu başlık altında yapay zeka ile ilgili bilgi içeriklerine erişebilirsiniz. Nedir?, Nasıl Yapılır? gibi başlıklar altında incelediğim yapay zeka yazıları şu şekilde:
 
+[Nesne Tanıma Algoritmaları: R-CNN, Fast R-CNN ve Faster R-CNN Nedir?](https://teknoloji.org/nesne-tanima-algoritmalari-r-cnn-fast-r-cnn-ve-faster-r-cnn-nedir/) |  [CNN (Convolutional Neural Networks) Nedir?](https://teknoloji.org/cnn-convolutional-neural-networks-nedir/)
+:-------------------------:|:-------------------------:
+<img src="https://teknoloji.org/wp-content/uploads/2020/12/bilgisayarli-gormede-daha-derin-sinir-aglari.png.webp" width="450" height="250"> |  <img src="https://teknoloji.org/wp-content/uploads/2020/10/cnn-nedir.png.webp" width="450" height="250">
+
+
 [OpenCV Kütüphanesi ile Mutluluk Detektörü Geliştirmek](https://teknoloji.org/opencv-kutuphanesi-ile-mutluluk-detektoru-gelistirmek/) |  [Keras Kütüphanesi Nedir? Derin Öğrenme Modeli Oluşturmak](https://teknoloji.org/keras-kutuphanesi-nedir-derin-ogrenme-modeli-olusturma/)
 :-------------------------:|:-------------------------:
 <img src="https://teknoloji.org/wp-content/uploads/2020/09/opencv-ile-mutluluk-detektoru.jpg.webp" width="450" height="250"> |  <img src="https://teknoloji.org/wp-content/uploads/2020/09/keras-kutuphanesi-nedir.jpg.webp" width="450" height="250">

@@ -1,6 +1,12 @@
 # Yapay Zeka ve Veri Bilimi
 Bu başlık altında yapay zeka ile ilgili bilgi içeriklerine erişebilirsiniz. Nedir?, Nasıl Yapılır? gibi başlıklar altında incelediğim yapay zeka yazıları şu şekilde:
 
+
+[PyTorch Kütüphanesi Nedir? Nasıl Kullanılır?](https://teknoloji.org/pytorch-kutuphanesi-nedir-nasil-kullanilir/) |  [Image Segmentation (Görüntü Bölütleme) Nedir?](https://teknoloji.org/image-segmentation-goruntu-bolutleme-nedir/)
+:-------------------------:|:-------------------------:
+<img src="https://teknoloji.org/wp-content/uploads/2020/12/pyTorch-nedir.png.webp" width="450" height="250"> |  <img src="https://teknoloji.org/wp-content/uploads/2020/12/image-segmentation-nedir.jpeg.webp" width="450" height="250">
+
+
 [Nesne Tanıma Algoritmaları: R-CNN, Fast R-CNN, Faster R-CNN](https://teknoloji.org/nesne-tanima-algoritmalari-r-cnn-fast-r-cnn-ve-faster-r-cnn-nedir/) |  [CNN (Convolutional Neural Networks) Nedir?](https://teknoloji.org/cnn-convolutional-neural-networks-nedir/)
 :-------------------------:|:-------------------------:
 <img src="https://teknoloji.org/wp-content/uploads/2020/12/bilgisayarli-gormede-daha-derin-sinir-aglari.png.webp" width="450" height="250"> |  <img src="https://teknoloji.org/wp-content/uploads/2020/10/cnn-nedir.png.webp" width="450" height="250">
